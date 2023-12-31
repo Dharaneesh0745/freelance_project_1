@@ -14,6 +14,9 @@ header {
     }
   }
 }
+.doctor {
+  display: none;
+}
 .activeLink {
   position: relative;
   color: $green;
@@ -32,6 +35,12 @@ header {
   header {
     nav {
       display: none;
+    }
+    .logomin {
+      display: none;
+    }
+    .doctor {
+      display: block;
     }
     .openMenu {
       position: absolute;
