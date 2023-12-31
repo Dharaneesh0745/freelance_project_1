@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { TitleLogo } from "./Title";
+import { Title, TitleLogo, TitleSm } from "./Title";
 import { BsFacebook } from "react-icons/bs";
 import {
   AiFillBehanceCircle,
@@ -71,6 +71,16 @@ const Footer = () => {
                   </Link>
                 </li>
               </div>
+            </ul>
+            <ul>
+              <h3>
+                Designed & Developed by,{" "}
+                <TitleLogo caption="Dharaneesh"></TitleLogo>
+              </h3>
+              <Title title="For freelance service,"></Title>
+              <a href="mailto:dharaneesh0745@gmail.com">
+                dharaneesh0745@gmail.com
+              </a>
             </ul>
           </div>
           <div className="legal connect py">
