@@ -20,11 +20,12 @@
     overflow-x: hidden !important;
   }
   .hero-title {
-    font-size: $xll-3;
-    line-height: 115px;
+    font-size: 50px;
+    line-height: 80px;
     font-weight: 600;
     margin: $xl-6 0;
   }
+
   .sub-heading {
     display: flex;
     justify-content: center;
@@ -37,7 +38,26 @@
       color: $green;
     }
   }
+  button {
+    margin-top: 50px;
+  }
+  @media screen and (max-width: 800px) {
+    .logobg {
+      font-size: 25px;
+    }
+    .hero-title {
+      font-size: 35px;
+      line-height: 50px;
+    }
+    .sub-heading {
+      display: none;
+    }
+    button {
+      margin-top: 50px;
+    }
+  }
 }
+
 .hero-sec {
   position: relative;
   &::before {

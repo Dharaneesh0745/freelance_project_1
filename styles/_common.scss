@@ -64,7 +64,6 @@
   max-width: 65%;
   margin: auto;
   padding-top: $xll-3;
-  padding-bottom: $xl-4;
   p {
     margin: $xl-6 0;
     color: rgba($white, 0.5);
@@ -153,6 +152,6 @@
   }
   .heading-title {
     max-width: 100%;
-    padding: 50px 0;
+    padding: 50px 0 -20px;
   }
 }

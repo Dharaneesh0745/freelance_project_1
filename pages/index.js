@@ -1,13 +1,13 @@
-import { Hero } from "@/sections"
-import Head from "next/head"
+import { Hero } from "@/sections";
+import Head from "next/head";
 
 export default function Home() {
   return (
     <>
       <Head>
-        <title>7Creative Desgin</title>
+        <title>Learn with Doctors</title>
       </Head>
       <Hero />
     </>
-  )
+  );
 }

@@ -67,12 +67,12 @@ const Header = () => {
             >
               Showcase
             </Link> */}
-            <Link
+            {/* <Link
               href="/blogs"
               className={activeLink == "/blogs" ? "activeLink" : "none"}
             >
               Blog
-            </Link>
+            </Link> */}
             <Link
               href="/contact"
               className={activeLink == "/contact" ? "activeLink" : "none"}

@@ -1,7 +1,7 @@
 import React from "react";
 import { TitleSm } from "./common/Title";
 import Link from "next/link";
-import { testimonial } from "@/assets/data/dummydata";
+import { testimonialteam } from "@/assets/data/dummydata";
 import { HiOutlineArrowRight } from "react-icons/hi";
 import { RiArrowLeftSLine, RiArrowRightSLine } from "react-icons/ri";
 import "slick-carousel/slick/slick.css";
@@ -60,7 +60,7 @@ const Testimonial = () => {
           </div>
           <div className="cards">
             <Slider {...settings}>
-              {testimonial.map((user) => (
+              {testimonialteam.map((user) => (
                 <div>
                   <div className="card">
                     <div className="image">
