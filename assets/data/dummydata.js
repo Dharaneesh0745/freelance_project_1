@@ -107,7 +107,7 @@ export const testimonialteam = [
   },
   {
     id: 2,
-    name: "Dr.Geetha Bharath",
+    name: "Dr.Geetha B",
     cover: "/dr.jpg",
     post: "Subject Matter Expert",
     desc: "Dr. Geetha B [MD (Gen med), Mmedsc(HK), Dch(Sydney), PhD(BU)] is an experienced medical practitioner and researcher. She lived and worked in HongKong for 20 years. She earned her MPhil and Masters in medical science degrees in HongKong. She undergone her pediatric training in Sydney Australia. After coming back to India she worked in Apollo hospital and Sri Ramakrishna hospital in coimbatore. She joined for a PhD degree at Bharathiar university in the department of Human genetics and molecular Biology and did her research in autism disorder at mitochondrial   DNA level. She published 14 research papers and also work as a medical writer and reviewer. She worked and work for NGO organizations and conduct medical camps for school children. She has published a book about childhood tuberculosis in India. She worked as a vice president, HongKong Tamil sangam, worked for project Madurai and conducted Thiruppaavai vizha in Hong kong for several years. She travelled extensively in europe and South east asia region. The cultural wealth created and existing in South east asia region by the chola empire inspired her to study more about the chola kingdom and to write a novel about Rajaraja narendran, son in law of Rajendra chola.",
