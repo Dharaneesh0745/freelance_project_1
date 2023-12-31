@@ -27,14 +27,14 @@ const Contact = () => {
                 <div className="box">
                   <FiHeadphones size={30} className="icons" />
                   <h3>
-                    <span>Koushik - </span>
+                    <span>Kousik - </span>
                     <a href="tel:9843331284">+91 9843331284</a>
                   </h3>
                 </div>
                 <div className="box">
                   <FiMail size={30} className="icons" />
                   <h3>
-                    <span>Koushik E-mail - </span>
+                    <span>Kousik E-mail - </span>
                     <a href="mailto:skoushik122002@gmail.com">
                       skoushik122002@gmail.com
                     </a>

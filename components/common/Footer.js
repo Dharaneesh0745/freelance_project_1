@@ -23,7 +23,7 @@ const Footer = () => {
               <br />
 
               <h3>
-                <span>Koushik - </span>
+                <span>Kousik - </span>
                 <a href="tel:9843331284">+91 9843331284</a>
               </h3>
               <br />
