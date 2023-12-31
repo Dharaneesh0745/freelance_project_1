@@ -79,7 +79,9 @@ const Header = () => {
             >
               Contact
             </Link>
-            <button className="button-primary">Get Started</button>
+            <Link href="/meetings">
+              <button className="button-primary">Get Started</button>
+            </Link>
           </nav>
           <button onClick={() => setOpen(!open)}>
             {open ? <AiOutlineClose size={25} /> : <RiMenu4Line size={25} />}

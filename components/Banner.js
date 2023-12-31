@@ -12,7 +12,9 @@ const Banner = () => {
             <TitleLogo title="Lets take your learning to the next level!" />
           </div>
           <div>
-            <button className="button-primary">Request</button>
+            <a href="mailto:skoushik122002@gmail.com">
+              <button className="button-primary">Request</button>
+            </a>
           </div>
         </div>
       </section>

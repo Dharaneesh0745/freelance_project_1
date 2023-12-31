@@ -42,7 +42,7 @@ const Contact = () => {
                 </div>
                 <div className="box">
                   <IoLocationOutline size={30} className="icons" />
-                  <h3>Pollachi</h3>
+                  <h3>Coimbatore, TN</h3>
                 </div>
               </div>
               <ul>

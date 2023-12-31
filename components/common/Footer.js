@@ -27,21 +27,23 @@ const Footer = () => {
                 <a href="tel:9843331284">+91 9843331284</a>
               </h3>
               <br />
-              <button className="button-primary">Request</button>
+              <a href="tel:9843331284">
+                <button className="button-primary">Request</button>
+              </a>
             </div>
             <ul>
               <h3>Visit to pages</h3>
 
               <li>
-                <Link href="/">Our team</Link>
+                <Link href="/agency">Our team</Link>
               </li>
 
               <li>
-                <Link href="/">Blog</Link>
+                <Link href="/contact">Contact</Link>
               </li>
 
               <li>
-                <Link href="/">Contact</Link>
+                <Link href="/meetings">Meetings</Link>
               </li>
             </ul>
 

@@ -1,11 +1,12 @@
 import { home } from "@/assets/data/dummydata";
 import Banner from "@/components/Banner";
 import Expertise from "@/components/Expertise";
-import ShowCase from "@/components/ShowCase";
+// import ShowCase from "@/components/ShowCase";
 import Testimonial from "@/components/Testimonial";
 import { Title, TitleLogo, TitleSm } from "@/components/common/Title";
 import { BlogCard, Brand } from "@/components/router";
 import React from "react";
+import Link from "next/link";
 
 const Hero = () => {
   return (
@@ -23,7 +24,9 @@ const Hero = () => {
             <TitleSm title="Botany" /> <span>.</span>
             <TitleSm title="Zoology" />
           </div>
-          <button className="button-primary">Get Started</button>
+          <Link href="/meetings">
+            <button className="button-primary">Get Started</button>
+          </Link>
         </div>
       </section>
       <section className="hero-sec">
