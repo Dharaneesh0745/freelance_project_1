@@ -6,11 +6,10 @@ import { Title, TitleSm } from "@/components/common/Title";
 const Agency = () => {
   return (
     <>
+      <TestimonialTeam />
       <section className="agency bg-top">
         <div className="container">
           <div className="heading-title">
-            <TitleSm title="About Our Team" /> <br />
-            <br />
             <Title
               title="All doctors treat, but a good doctor lets nature heal!"
               className="title-bg"
@@ -46,7 +45,7 @@ const Agency = () => {
             </div>
             <div className="right w-40 ml">
               <img
-                src="/images/s1.jpg"
+                src="/im2.jpg"
                 alt="Img"
                 className="round"
                 width="100%"
@@ -58,7 +57,7 @@ const Agency = () => {
           <div className="content flex">
             <div className="left w-40 py">
               <img
-                src="/images/s4.jpg"
+                src="/im3.jpg"
                 alt="Img"
                 className="round"
                 width="100%"
@@ -91,7 +90,7 @@ const Agency = () => {
       </section>
 
       {/* <Brand /> */}
-      <TestimonialTeam />
+
       {/* <Banner /> */}
       <br />
       <br />
