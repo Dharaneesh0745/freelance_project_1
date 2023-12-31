@@ -73,28 +73,28 @@ export const testimonial = [
     name: "Dharaneesh Boobalan",
     cover: "/toni.jpg",
     post: "Student",
-    desc: "Nunc fermentum - tempus erat ligula, sit amet lacinia justo cursus ac. Suspendisse quis nulla tincidunt! Lorem ipsum dolor amet at ornare ex, quis fringilla tortor! Nunc consectetur feugiat rutrum. Sed rhoncus sapien!",
+    desc: "Well, I'm not a medical student but I heard about this program that is being conducted by my colleague Mr.Kousik. I have discussed a lot with him about career programs, higher studies, and so on. He really a well-skilled person. He is a good guide, tutor and a good friend. I wish him all the best for his future endeavors.",
   },
   {
     id: 2,
     name: "Mugesh Ram Sundar",
     cover: "/dummy.jpg",
     post: "Student",
-    desc: "Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.",
+    desc: "Enrolling in medical school has been eye-opening. The dynamic coursework and committed instructors have expanded my medical knowledge, empowering me for the healthcare field. The clinical rotations provided a glimpse into the real-world application of my studies. This journey has been both educational and inspiring.",
   },
   {
     id: 3,
     name: "Sanjeevi Kumar",
     cover: "/dummy.jpg",
     post: "Student",
-    desc: "Nunc fermentum - tempus erat ligula, sit amet lacinia justo cursus ac. Suspendisse quis nulla tincidunt! Lorem ipsum dolor amet at ornare ex, quis fringilla tortor! Nunc consectetur feugiat rutrum. Sed rhoncus sapien!",
+    desc: "My time in this medical program has been remarkable. The focused curriculum and supportive faculty have deepened my understanding of healthcare. The immersive clinical experiences have allowed me to integrate theory with practice, enhancing my proficiency. I am confident that this foundation will serve me well in my future medical endeavors.",
   },
   {
     id: 4,
     name: "Naveen Kumar",
     cover: "/dummy.jpg",
     post: "Student",
-    desc: "Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.",
+    desc: "Joining this medical community has been a game-changer. The intensive curriculum and dedicated faculty have been pivotal in my growth as a future healthcare professional. The hands-on learning experiences, coupled with engaging clinical rotations, have prepared me for the dynamic nature of the medical field. I am grateful for the solid foundation this program has provided.",
   },
 ];
 export const testimonialteam = [
